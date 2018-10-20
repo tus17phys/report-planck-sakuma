@@ -1,0 +1,71 @@
+\documentclass[11pt,a4paper]{jsarticle}
+	\usepackage{amsmath,amssymb}
+	\usepackage{amsfonts}
+	\usepackage{bm}
+	\usepackage[dvipdfmx]{graphicx}
+	\usepackage{ascmac}
+	\usepackage{okumacro}
+	\usepackage{titlesec}
+	\usepackage{here}%画像を強制的に指定場所に置く[Here]を使える
+	\usepackage{cases}%連立方程式など
+	\setlength{\textwidth}{\fullwidth}
+	\setlength{\textheight}{39\baselineskip}
+	\addtolength{\textheight}{\topskip}
+	\setlength{\voffset}{-0.5in}
+	\setlength{\headsep}{0.3in}
+	%
+	\makeatletter
+	\def\section{\@startsection {section}{1}{\z@}{-2.5ex plus -1ex minus -.2ex}{2.5 ex plus .2ex}{\LARGE\bf}}
+	\def\subsection{\@startsection {subsection}{1}{\z@}{-1.5ex plus -1ex minus -.2ex}{2.3 ex plus .2ex}{\Large\bf}}
+	\def\subsubsection{\@startsection {subsubsection}{1}{\z@}{-2.5ex plus -1ex minus -.2ex}{.3 ex plus .2ex}{\large \bf}}
+	\makeatother
+
+	\makeatletter
+	    \renewcommand{\theequation}{%
+	    \thesection.\arabic{equation}}
+	    \@addtoreset{equation}{section}
+	  \makeatother
+
+
+	\newcommand{\divergence}{\mathrm{div}\,}  %ダイバージェンス
+	\newcommand{\grad}{\mathrm{grad}\,}  %グラディエント
+	\newcommand{\rot}{\mathrm{rot}\,}  %ローテーション
+	\newcommand{\pt}{\partial}  %パーシャル
+	\newcommand{\df}{\overset{\mathrm{def}}{=}} %def
+	\newcommand{\non}{\nonumber}  %\nonumber
+	\newcommand{\dis}{\displaystyle}
+	\newcommand{\f}[1]{\framebox[1cm]{\textgt{\small #1}}}
+	\newcommand{\kine}{\frac{1}{2}mv^2} %運動エネルギー
+	\newcommand{\sceq}{Schrödinger equation}
+	\pagestyle{plain}
+		%\markright{\footnotesize \sf 物理数学1A 第一回中間テスト(2017) 解答例 \ %左上のタイトル
+		%{＠sakuPonit}} %名前
+\begin{document}
+
+%%　表紙
+\begin{center}
+    \huge 平成30年度 物理学実験(二)\par
+    \vspace{15mm}
+    \Huge プランク定数 \par
+    \vspace{60mm}
+    \Large  実験日: 平成30年5月28日\par
+    \vspace{15mm}
+    \Large 1217054 佐久間寛伸\par
+    \vspace{10mm}
+  \end{center}
+  \thispagestyle{empty}
+  \clearpage
+  \addtocounter{page}{-1}
+  \newpage
+
+%% 目次
+\tableofcontents
+  \newpage
+
+%%　内容
+\section{目的}
+	プランク定数測定器により，ハロゲン灯の光を分光し，振動数が知られているいくつかの単色光と
+	Sb-Cs光電管とを用いて光電効果(photo-electric effect)の実験を行なう.それらの結果から,光が粒子性を示すことを理解し,
+	さらにプランク定数(Planck constant)$h$を求める
+
+\end{document}
