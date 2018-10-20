@@ -83,7 +83,6 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT planck054.toc
 INPUT planck054.toc
-OUTPUT planck054.toc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
@@ -109,4 +108,8 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+OUTPUT planck054.toc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT planck054.aux

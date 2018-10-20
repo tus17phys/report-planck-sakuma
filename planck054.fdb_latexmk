@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1540075224 "planck054.dvi" "planck054.pdf" "planck054" 1540075225
-  "planck054.dvi" 1540075224 1572 6067f60fa4c84bd9b897648729921948 "latex"
+["dvipdf"] 1540076614 "planck054.dvi" "planck054.pdf" "planck054" 1540076615
+  "planck054.dvi" 1540076614 9056 42b3407001c78521dd6ce39f26022a83 "latex"
   (generated)
   "planck054.pdf"
-["latex"] 1540075224 "planck054.tex" "planck054.dvi" "planck054" 1540075225
+["latex"] 1540076614 "planck054.tex" "planck054.dvi" "planck054" 1540076615
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1480098698 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm" 1480098698 1120 7f9f170e8aa57527ad6c49feafd45d54 ""
@@ -59,11 +59,11 @@
   "/usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf" 1522066949 33362 cf75436e19743e94a92a6b1b9183c434 ""
   "/usr/local/texlive/2018/texmf-var/web2c/euptex/uplatex.fmt" 1537760815 4470727 e41f0943682f3ad441ab9183c3e0f9ee ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "planck054.aux" 1540075224 76 00f41916896be93a4969abb84508c6f4 ""
-  "planck054.tex" 1540075224 2511 74f36f6c13f920d9e0a068d09d3dc8ef ""
-  "planck054.toc" 1540075224 50 abbb65d477029ac9cb134031ec37ee95 ""
+  "planck054.aux" 1540076614 543 cb4a3be4f189b5ab4b7998cf146f8a55 ""
+  "planck054.tex" 1540076614 6935 15aff544ea32941a67529de5110e9446 ""
+  "planck054.toc" 1540076614 351 ecc4b37b06dbaffe42601deee058f54a ""
   (generated)
-  "planck054.log"
-  "planck054.dvi"
   "planck054.toc"
   "planck054.aux"
+  "planck054.log"
+  "planck054.dvi"
