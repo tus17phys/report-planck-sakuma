@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.8.0-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2018.9.24)  21 OCT 2018 21:49
+This is e-upTeX, Version 3.14159265-p3.8.0-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2018.9.24)  22 OCT 2018 22:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -198,7 +198,11 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@floatcapt=\box56
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/cases/cases.sty
 Package: cases 2002/05/02 ver 2.5 
-) (./planck054.aux)
+) (./planck054.aux
+
+LaTeX Warning: Label `ブレーズ波長' multiply defined.
+
+)
 \openout1 = `planck054.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
@@ -318,29 +322,41 @@ LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <12> not available
 (Font)              Font shape `JY2/gt/m/n' tried instead on input line 154.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 11.09619pt on input line 154.
-[3]
 File: eqp01.jpg Graphic file (type bmp)
 <eqp01.jpg>
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 182.
+(Font)              scaled to size 8.32214pt on input line 164.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 182.
+(Font)              scaled to size 8.32214pt on input line 164.
+[3]
+File: zu_05.png Graphic file (type bmp)
+<zu_05.png>
+ [4]
+File: zu_01.png Graphic file (type bmp)
+<zu_01.png>
+File: fig2.png Graphic file (type bmp)
+<fig2.png>
+ [5]
 LaTeX Font Info:    Font shape `JT2/mc/m/sl' in size <10> not available
-(Font)              Font shape `JT2/mc/m/n' tried instead on input line 202.
+(Font)              Font shape `JT2/mc/m/n' tried instead on input line 226.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 202.
+(Font)              scaled to size 9.24683pt on input line 226.
 LaTeX Font Info:    Font shape `JY2/mc/m/sl' in size <10> not available
-(Font)              Font shape `JY2/mc/m/n' tried instead on input line 202.
+(Font)              Font shape `JY2/mc/m/n' tried instead on input line 226.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 202.
- [4] [5] (./planck054.aux) ) 
+(Font)              scaled to size 9.24683pt on input line 226.
+ [6] (./planck054.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2368 strings out of 493270
- 28030 string characters out of 6145018
+ 2384 strings out of 493270
+ 28327 string characters out of 6145018
  103251 words of memory out of 5000000
- 6280 multiletter control sequences out of 15000+600000
+ 6289 multiletter control sequences out of 15000+600000
  18659 words of font info for 90 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 27i,5n,27p,360b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,5n,27p,360b,321s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on planck054.dvi (6 pages, 16160 bytes).
+Output written on planck054.dvi (7 pages, 16848 bytes).

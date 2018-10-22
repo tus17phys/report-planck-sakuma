@@ -123,5 +123,11 @@ INPUT extractbb -B cropbox -O eqp01.jpg
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT zu_05.png
+INPUT extractbb -B cropbox -O zu_05.png
+INPUT zu_01.png
+INPUT extractbb -B cropbox -O zu_01.png
+INPUT fig2.png
+INPUT extractbb -B cropbox -O fig2.png
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm
 INPUT planck054.aux

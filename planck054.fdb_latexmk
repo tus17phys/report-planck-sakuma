@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1540126156 "planck054.dvi" "planck054.pdf" "planck054" 1540126157
-  "planck054.dvi" 1540126156 16160 9b45959b7db697e557d01edad74a8fb2 "latex"
+["dvipdf"] 1540215806 "planck054.dvi" "planck054.pdf" "planck054" 1540215807
+  "planck054.dvi" 1540215806 16848 58059a5e6f1e58a64e46bc8b2b46ea40 "latex"
   (generated)
   "planck054.pdf"
-["latex"] 1540126156 "planck054.tex" "planck054.dvi" "planck054" 1540126157
+["latex"] 1540215805 "planck054.tex" "planck054.dvi" "planck054" 1540215807
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1480098698 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm" 1480098698 1120 7f9f170e8aa57527ad6c49feafd45d54 ""
@@ -63,11 +63,17 @@
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
   "eqp01.jpg" 1540122050 20678 ac826cf37651ac7909db4d92828256f8 ""
   "extractbb -B cropbox -O eqp01.jpg" 0 -1 0 ""
-  "planck054.aux" 1540126156 1809 22c8031a8016231c987f06ab0e327875 ""
-  "planck054.tex" 1540126155 12022 79032fd579df267f03ddd0b288609422 ""
-  "planck054.toc" 1540126156 704 bae57ad43261b5ad11941bd8514e71de ""
+  "extractbb -B cropbox -O fig2.png" 0 -1 0 ""
+  "extractbb -B cropbox -O zu_01.png" 0 -1 0 ""
+  "extractbb -B cropbox -O zu_05.png" 0 -1 0 ""
+  "fig2.png" 1540214241 56374 660f125fdc8738375693338772b4b268 ""
+  "planck054.aux" 1540215806 2656 786f393ea156fc8ef680bcbb13ef6159 ""
+  "planck054.tex" 1540215804 12833 113dee80d3a6dd19fae77015387927ee ""
+  "planck054.toc" 1540215806 820 7e5fe5eb80055f5ad3a683ffa13c2f7c ""
+  "zu_01.png" 1540215523 26401 d7298ab8ecd9572b5b470f559cfa63e5 ""
+  "zu_05.png" 1540215752 12779 8ea0bf0d3e2cf0be42e1dfec58a21818 ""
   (generated)
-  "planck054.dvi"
-  "planck054.log"
   "planck054.toc"
   "planck054.aux"
+  "planck054.dvi"
+  "planck054.log"
