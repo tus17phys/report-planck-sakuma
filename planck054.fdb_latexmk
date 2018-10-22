@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1540084308 "planck054.dvi" "planck054.pdf" "planck054" 1540084309
-  "planck054.dvi" 1540084308 11808 f15dbd6ce705499df2b299fa161538f6 "latex"
+["dvipdf"] 1540126156 "planck054.dvi" "planck054.pdf" "planck054" 1540126157
+  "planck054.dvi" 1540126156 16160 9b45959b7db697e557d01edad74a8fb2 "latex"
   (generated)
   "planck054.pdf"
-["latex"] 1540084308 "planck054.tex" "planck054.dvi" "planck054" 1540084309
+["latex"] 1540126156 "planck054.tex" "planck054.dvi" "planck054" 1540126157
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1480098698 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm" 1480098698 1120 7f9f170e8aa57527ad6c49feafd45d54 ""
@@ -26,6 +26,7 @@
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1480098701 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1480098701 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1480098701 1292 21c1c5bfeaebccffdb478fd231a0997d ""
+  "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1480098701 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm" 1480098701 1508 efecb4a315fe0975509670a272d75ef5 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1480098701 1316 b636689f1933f24d1294acdf6041daaa ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm" 1522271273 812 52bd92aa20c58a398601cda6dd62c8d1 ""
@@ -60,11 +61,13 @@
   "/usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf" 1522066949 33362 cf75436e19743e94a92a6b1b9183c434 ""
   "/usr/local/texlive/2018/texmf-var/web2c/euptex/uplatex.fmt" 1537760815 4470727 e41f0943682f3ad441ab9183c3e0f9ee ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "planck054.aux" 1540084308 1202 bd047ae3c2bac42820b65b32175a3a20 ""
-  "planck054.tex" 1540084307 8758 1b138ed359a4175048df3934554bb04d ""
-  "planck054.toc" 1540084308 587 b668fc7966d53fea953c9fe86e93fdf8 ""
+  "eqp01.jpg" 1540122050 20678 ac826cf37651ac7909db4d92828256f8 ""
+  "extractbb -B cropbox -O eqp01.jpg" 0 -1 0 ""
+  "planck054.aux" 1540126156 1809 22c8031a8016231c987f06ab0e327875 ""
+  "planck054.tex" 1540126155 12022 79032fd579df267f03ddd0b288609422 ""
+  "planck054.toc" 1540126156 704 bae57ad43261b5ad11941bd8514e71de ""
   (generated)
-  "planck054.toc"
-  "planck054.log"
-  "planck054.aux"
   "planck054.dvi"
+  "planck054.log"
+  "planck054.toc"
+  "planck054.aux"
