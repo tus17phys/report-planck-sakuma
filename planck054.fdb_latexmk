@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1540215806 "planck054.dvi" "planck054.pdf" "planck054" 1540215807
-  "planck054.dvi" 1540215806 16848 58059a5e6f1e58a64e46bc8b2b46ea40 "latex"
+["dvipdf"] 1540235576 "planck054.dvi" "planck054.pdf" "planck054" 1540235579
+  "planck054.dvi" 1540235576 29100 98356c7e227c7bc0dc0ce7652137af4e "latex"
   (generated)
   "planck054.pdf"
-["latex"] 1540215805 "planck054.tex" "planck054.dvi" "planck054" 1540215807
+["latex"] 1540235574 "planck054.tex" "planck054.dvi" "planck054" 1540235579
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1480098698 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm" 1480098698 1120 7f9f170e8aa57527ad6c49feafd45d54 ""
@@ -55,6 +55,7 @@
   "/usr/local/texlive/2018/texmf-dist/tex/latex/here/here.sty" 1480098831 439 d908692e0f19922874ccfe2bf35addc7 ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty" 1480098841 37387 afa86533e532701faf233f3f592c61e0 ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/tools/bm.sty" 1523050425 12626 7d9d99d0bbe65f44cc0bb90f67262000 ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/tools/multicol.sty" 1523050425 30628 652b36ef08363b32730b448cf0e44496 ""
   "/usr/local/texlive/2018/texmf-dist/tex/platex/jsclasses/jsarticle.cls" 1520799791 59147 ef9dc8395fc5eca058217e3988639a48 ""
   "/usr/local/texlive/2018/texmf-dist/tex/platex/jsclasses/jslogo.sty" 1487977266 6061 1242b5308ecb0db77c71c1ff6c687ace ""
   "/usr/local/texlive/2018/texmf-dist/tex/platex/jsclasses/okumacro.sty" 1507164118 15257 309dafe2986e570a05ba08cca346f5dc ""
@@ -64,16 +65,26 @@
   "eqp01.jpg" 1540122050 20678 ac826cf37651ac7909db4d92828256f8 ""
   "extractbb -B cropbox -O eqp01.jpg" 0 -1 0 ""
   "extractbb -B cropbox -O fig2.png" 0 -1 0 ""
+  "extractbb -B cropbox -O fig3.png" 0 -1 0 ""
+  "extractbb -B cropbox -O fig4.png" 0 -1 0 ""
+  "extractbb -B cropbox -O fig5.png" 0 -1 0 ""
+  "extractbb -B cropbox -O fig6.png" 0 -1 0 ""
+  "extractbb -B cropbox -O fig7.png" 0 -1 0 ""
   "extractbb -B cropbox -O zu_01.png" 0 -1 0 ""
   "extractbb -B cropbox -O zu_05.png" 0 -1 0 ""
   "fig2.png" 1540214241 56374 660f125fdc8738375693338772b4b268 ""
-  "planck054.aux" 1540215806 2656 786f393ea156fc8ef680bcbb13ef6159 ""
-  "planck054.tex" 1540215804 12833 113dee80d3a6dd19fae77015387927ee ""
-  "planck054.toc" 1540215806 820 7e5fe5eb80055f5ad3a683ffa13c2f7c ""
+  "fig3.png" 1540222208 810679 e1df32d16fac5fcfc0951eac1cccb27a ""
+  "fig4.png" 1540224449 100975 cedd47fb506c2b7d4871b016ac22d458 ""
+  "fig5.png" 1540225354 485248 0f145e841db214fa635c47e2f91a391d ""
+  "fig6.png" 1540225601 545033 614439427d941b338b7b826de86b5c36 ""
+  "fig7.png" 1540233418 49906 8e785e3025c9d00cfa137db982c31241 ""
+  "planck054.aux" 1540235576 3694 b246a431486c94e46c436ba12d6b2232 ""
+  "planck054.tex" 1540235574 22542 85f38d7c3695246d4fdc965e87326c88 ""
+  "planck054.toc" 1540235576 801 f165e5271f9d0780fce7e08c71274a23 ""
   "zu_01.png" 1540215523 26401 d7298ab8ecd9572b5b470f559cfa63e5 ""
   "zu_05.png" 1540215752 12779 8ea0bf0d3e2cf0be42e1dfec58a21818 ""
   (generated)
   "planck054.toc"
+  "planck054.log"
   "planck054.aux"
   "planck054.dvi"
-  "planck054.log"

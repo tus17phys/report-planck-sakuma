@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.8.0-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2018.9.24)  22 OCT 2018 22:43
+This is e-upTeX, Version 3.14159265-p3.8.0-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2018.9.24)  23 OCT 2018 04:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -198,6 +198,54 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@floatcapt=\box56
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/cases/cases.sty
 Package: cases 2002/05/02 ver 2.5 
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/04/01 v1.8r multicolumn formatting (FMi)
+\c@tracingmulticols=\count106
+\mult@box=\box57
+\multicol@leftmargin=\dimen147
+\c@unbalance=\count107
+\c@collectmore=\count108
+\doublecol@number=\count109
+\multicoltolerance=\count110
+\multicolpretolerance=\count111
+\full@width=\dimen148
+\page@free=\dimen149
+\premulticols=\dimen150
+\postmulticols=\dimen151
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box58
+\last@line=\box59
+\maxbalancingoverflow=\dimen152
+\mult@rightbox=\box60
+\mult@grightbox=\box61
+\mult@gfirstbox=\box62
+\mult@firstbox=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\c@columnbadness=\count112
+\c@finalcolumnbadness=\count113
+\last@try=\dimen153
+\multicolovershoot=\dimen154
+\multicolundershoot=\dimen155
+\mult@nat@firstbox=\box81
+\colbreak@box=\box82
+\mc@col@check@num=\count114
 ) (./planck054.aux
 
 LaTeX Warning: Label `ブレーズ波長' multiply defined.
@@ -205,53 +253,53 @@ LaTeX Warning: Label `ブレーズ波長' multiply defined.
 )
 \openout1 = `planck054.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 47.
+(Font)              scaled to size 19.17792pt on input line 48.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 47.
+(Font)              scaled to size 19.17792pt on input line 48.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 23.0061pt on input line 49.
+(Font)              scaled to size 23.0061pt on input line 50.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 23.0061pt on input line 49.
+(Font)              scaled to size 23.0061pt on input line 50.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 51.
+(Font)              scaled to size 13.31541pt on input line 52.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 51.
+(Font)              scaled to size 13.31541pt on input line 52.
  [1
 
 ]
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 62.
+(Font)              scaled to size 9.24683pt on input line 67.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 62.
+(Font)              scaled to size 9.24683pt on input line 67.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 15.9785pt on input line 62.
+(Font)              scaled to size 15.9785pt on input line 67.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 15.9785pt on input line 62.
+(Font)              scaled to size 15.9785pt on input line 67.
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 62.
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 67.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 15.9785pt on input line 62.
+(Font)              scaled to size 15.9785pt on input line 67.
 LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 62.
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 67.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 15.9785pt on input line 62.
+(Font)              scaled to size 15.9785pt on input line 67.
  (./planck054.toc
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 (Font)              scaled to size 6.47278pt on input line 4.
@@ -277,16 +325,16 @@ LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 
 ]
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 77.
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 83.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 77.
+(Font)              scaled to size 13.31541pt on input line 83.
 LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 77.
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 83.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 77.
+(Font)              scaled to size 13.31541pt on input line 83.
  [2]
-./planck054.tex:136: Undefined control sequence.
-l.136 ...\nuについて同様な測定を行い
+./planck054.tex:142: Undefined control sequence.
+l.142 ...\nuについて同様な測定を行い
                                                 ，$\nu$と$eV_0$の関係を
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -294,69 +342,269 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./planck054.tex:137: Missing $ inserted.
+./planck054.tex:143: Missing $ inserted.
 <inserted text> 
                 $
-l.137 ...176 \pm 0.000036) \times 10^{-34}$J \cdot
+l.143 ...176 \pm 0.000036) \times 10^{-34}$J \cdot
                                                   {\rm s}である．\\
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./planck054.tex:138: Missing $ inserted.
+./planck054.tex:144: Missing $ inserted.
 <inserted text> 
                 $
-l.138 ...の表面物質の仕事関数 $\varphi
+l.144 ...の表面物質の仕事関数 $\varphi
                                                 $ が得られる．」
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 154.
-LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 154.
-LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 154.
-LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 154.
-LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 154.
-LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 154.
 File: eqp01.jpg Graphic file (type bmp)
 <eqp01.jpg>
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 164.
+(Font)              scaled to size 8.32214pt on input line 166.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 164.
+(Font)              scaled to size 8.32214pt on input line 166.
 [3]
 File: zu_05.png Graphic file (type bmp)
 <zu_05.png>
- [4]
+File: fig6.png Graphic file (type bmp)
+<fig6.png>
 File: zu_01.png Graphic file (type bmp)
 <zu_01.png>
+ [4]
+File: fig5.png Graphic file (type bmp)
+<fig5.png>
+ [5]
+Overfull \vbox (1.31175pt too high) has occurred while \output is active []
+
+ [6]
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 230.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 230.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 230.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 230.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 230.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 230.
+File: fig3.png Graphic file (type bmp)
+<fig3.png>
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 258.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 258.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 258.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 258.
+File: fig4.png Graphic file (type bmp)
+<fig4.png>
+ [7] [8]
+./planck054.tex:294: Missing $ inserted.
+<inserted text> 
+                $
+l.294 ...くして行った時の光電流を\mu
+                                                 Aメーターで読む．
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+./planck054.tex:295: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.295 ^^I^^I^^I^^I\item
+                        測定が終ったならばGIANを×1に戻す．
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./planck054.tex:295: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.295 ^^I^^I^^I^^I\item 測
+                           定が終ったならばGIANを×1に戻す．
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./planck054.tex:295: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.295 ^^I^^I^^I^^I\item 測
+                           定が終ったならばGIANを×1に戻す．
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./planck054.tex:296: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.296 ^^I^^I^^I^^I\item
+                        3.から12.までの操作を2˚ごと，すなわち
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./planck054.tex:296: Missing $ inserted.
+<inserted text> 
+                $
+l.296 ^^I^^I^^I^^I\item 3
+                         .から12.までの操作を2˚ごと，すなわち
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./planck054.tex:296: Missing } inserted.
+<inserted text> 
+                }
+l.296 ^^I^^I^^I^^I\item 3
+                         .から12.までの操作を2˚ごと，すなわち
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./planck054.tex:296: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.296 ^^I^^I^^I^^I\item 3
+                         .から12.までの操作を2˚ごと，すなわち
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./planck054.tex:300: Missing $ inserted.
+<inserted text> 
+                $
+l.300 ^^I^^I^^I^^I本報告書では0.01\mu
+                                            Aで読み取る．
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+./planck054.tex:301: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.301 ^^I^^I^^I^^I\item
+                        読み取った阻止電圧を縦軸に，対応す...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./planck054.tex:301: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.301 ^^I^^I^^I^^I\item 読
+                           み取った阻止電圧を縦軸に，対応す...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./planck054.tex:301: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.301 ^^I^^I^^I^^I\item 読
+                           み取った阻止電圧を縦軸に，対応す...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./planck054.tex:302: LaTeX Error: Command \end{enumerate} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.302 ^^I^^I^^I\end{enumerate}
+                              
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./planck054.tex:302: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.302 ^^I^^I^^I\end{enumerate}
+                              
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./planck054.tex:302: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.302 ^^I^^I^^I\end{enumerate}
+                              
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./planck054.tex:302: Missing $ inserted.
+<inserted text> 
+                $
+l.302 ^^I^^I^^I\end{enumerate}
+                              
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
 File: fig2.png Graphic file (type bmp)
 <fig2.png>
- [5]
+[9]
+File: fig7.png Graphic file (type bmp)
+<fig7.png>
 LaTeX Font Info:    Font shape `JT2/mc/m/sl' in size <10> not available
-(Font)              Font shape `JT2/mc/m/n' tried instead on input line 226.
+(Font)              Font shape `JT2/mc/m/n' tried instead on input line 355.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 226.
+(Font)              scaled to size 9.24683pt on input line 355.
 LaTeX Font Info:    Font shape `JY2/mc/m/sl' in size <10> not available
-(Font)              Font shape `JY2/mc/m/n' tried instead on input line 226.
+(Font)              Font shape `JY2/mc/m/n' tried instead on input line 355.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 226.
- [6] (./planck054.aux)
+(Font)              scaled to size 9.24683pt on input line 355.
+ [10] [11] (./planck054.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2384 strings out of 493270
- 28327 string characters out of 6145018
- 103251 words of memory out of 5000000
- 6289 multiletter control sequences out of 15000+600000
+ 2526 strings out of 493270
+ 30528 string characters out of 6145018
+ 107239 words of memory out of 5000000
+ 6418 multiletter control sequences out of 15000+600000
  18659 words of font info for 90 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 27i,5n,27p,360b,321s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,5n,27p,360b,441s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on planck054.dvi (7 pages, 16848 bytes).
+Output written on planck054.dvi (12 pages, 29100 bytes).

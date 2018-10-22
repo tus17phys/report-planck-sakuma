@@ -59,6 +59,8 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/cases/cases.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/cases/cases.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/tools/multicol.sty
 INPUT planck054.aux
 INPUT planck054.aux
 OUTPUT planck054.aux
@@ -112,12 +114,6 @@ OUTPUT planck054.toc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT eqp01.jpg
 INPUT extractbb -B cropbox -O eqp01.jpg
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
@@ -125,9 +121,25 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT zu_05.png
 INPUT extractbb -B cropbox -O zu_05.png
+INPUT fig6.png
+INPUT extractbb -B cropbox -O fig6.png
 INPUT zu_01.png
 INPUT extractbb -B cropbox -O zu_01.png
+INPUT fig5.png
+INPUT extractbb -B cropbox -O fig5.png
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT fig3.png
+INPUT extractbb -B cropbox -O fig3.png
+INPUT fig4.png
+INPUT extractbb -B cropbox -O fig4.png
 INPUT fig2.png
 INPUT extractbb -B cropbox -O fig2.png
+INPUT fig7.png
+INPUT extractbb -B cropbox -O fig7.png
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm
 INPUT planck054.aux
